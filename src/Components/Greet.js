@@ -7,7 +7,7 @@ function Greet() {
     return (
         <>
             <h1>Hello {name}</h1>
-            <button onClick={change}>change Name</button>
+            <button onClick={change}>Change</button>
         </>
     )
 }
